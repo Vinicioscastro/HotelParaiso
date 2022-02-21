@@ -143,3 +143,43 @@ header li:last-child{
         flex-basis: 100%;
     }
 }
+/*
+.caracteristicas{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(68, 58, 58);
+    width: 100%;
+    padding: 20px 8%;
+    height: 100vh;
+
+}
+.caracteristicas h3{
+    color: white;
+    font-size: 2em;
+    margin-bottom: 30px;
+    margin-top: 50px;
+
+}
+.caracteristicas p{
+    color: white;
+    font-size: 1em;
+    margin-bottom: 0px;
+    margin-top: 35px;
+    width: 60%;
+
+}
+.tipos{
+    display: flex;
+    width: 100%;
+
+}
+.tipos ul li{
+    background: aqua;
+    width: 25%;
+    padding: 10px;
+    
+}*/
+
