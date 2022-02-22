@@ -264,7 +264,7 @@ header li:last-child {
   }
 }
 .noticias {
-width: 100%;
+  width: 100%;
   background-color: white;
   padding: 90px 0px;
   display: flex;
@@ -287,18 +287,19 @@ width: 100%;
   background-color: black;
   margin-bottom: 25px;
 }
-.noticias input{
-    margin-right: 30px;
-    padding: 10px 10px;
-    width: 400px;
-    border-radius: 5px;
-    border-color: #191c03;
+.noticias input {
+  margin-right: 0px;
+  padding: 10px 10px;
+  width: 400px;
+  border-radius: 5px;
+  border-color: #191c03;
 }
-.noticias button{
-    padding: 10px 40px;
-    border: none;
-    color: white;
-    background-color: #191c03;
-    cursor: pointer;
-    margin-top: 15px;
+.noticias button {
+  margin: 15px;
+  padding: 10px 40px;
+  border: none;
+  color: white;
+  background-color: #191c03;
+  cursor: pointer;
+  margin-top: 15px;
 }
